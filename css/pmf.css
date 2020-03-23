@@ -1,0 +1,10 @@
+body {
+  paddiing: 0.5em;
+}
+
+.text-block {
+  color: #000;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin-bottom: 3em;
+}
